@@ -2,7 +2,7 @@
 # Web Application Security Testing with DVWA, Burp Suite, and OWASP ZAP
 
 
-FUTURE_CS_01 – Web Application Vulnerability Assessment (DVWA)
+Web Application Vulnerability Assessment (DVWA)
 
 Overview
 This repository contains the work completed for Task 1 of the Cyber Security Internship under the Future Interns Program. The objective of this task was to conduct a vulnerability assessment of a deliberately insecure web application (DVWA) using industry-standard tools and methodologies. The findings simulate a real-world penetration test and demonstrate practical ethical hacking skills.
