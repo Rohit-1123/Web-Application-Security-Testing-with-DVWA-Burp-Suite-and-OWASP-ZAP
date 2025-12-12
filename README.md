@@ -1,19 +1,19 @@
-# FUTURE_CS_01
-Task 1: Web Application Security Testing with DVWA, Burp Suite, and OWASP ZAP
+
+# Web Application Security Testing with DVWA, Burp Suite, and OWASP ZAP
 
 
-🔐 FUTURE_CS_01 – Web Application Vulnerability Assessment (DVWA)
+FUTURE_CS_01 – Web Application Vulnerability Assessment (DVWA)
 
-📌 Overview
+Overview
 This repository contains the work completed for Task 1 of the Cyber Security Internship under the Future Interns Program. The objective of this task was to conduct a vulnerability assessment of a deliberately insecure web application (DVWA) using industry-standard tools and methodologies. The findings simulate a real-world penetration test and demonstrate practical ethical hacking skills.
 
-🎯 Objectives
+Objectives
 - Identify common web application vulnerabilities (e.g., SQL Injection, XSS, CSRF)
 - Perform both manual and automated testing
 - Generate a detailed security report with recommendations
 - Map findings to the OWASP Top 10 vulnerabilities
 
-🛠️ Tools Used
+Tools Used
 | Tool        | Purpose                                          |
 |-------------|--------------------------------------------------|
 | Kali Linux  | Penetration testing OS                           |
@@ -26,7 +26,7 @@ This repository contains the work completed for Task 1 of the Cyber Security Int
 
 
 
- 🔍 Vulnerabilities Identified
+Vulnerabilities Identified
 
 |    | Vulnerability            | Type   | Severity |
 |----|--------------------------|--------|----------|
@@ -38,9 +38,7 @@ This repository contains the work completed for Task 1 of the Cyber Security Int
 | 6  | Server Version Disclosure| ZAP    | 🔵 Info   |
 
 
-
-
-📢 Disclaimer
+Disclaimer
 This project was conducted on a local and intentionally vulnerable environment (DVWA) for educational purposes only. No real systems or services were harmed or tested.
 
 
